@@ -21,7 +21,7 @@ This replication package is organized according to the following structure:
 - To get started:
 
   ```
-  git clone https://github.com/Ckkk112138/GoGreen2-replication-package.git
+  git clone https://github.com/S2-group/cain-2024-distilled-models-energy-perf-rep-pkg/
   cd GoGreen2-replication-package/
   pip install -r requirements.txt
   ```
